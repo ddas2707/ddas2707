@@ -7,15 +7,17 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>-->
 
-- 🔭 I’m currently working in **Es Magico Tech Studio** Company
+<!-- - 🔭 I’m currently working in **Es Magico Tech Studio** Company -->
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/)
+- 💬 Ask me about **Android , Web**
 
-- 📄 Check [Resume](https://drive.google.com/file/d/17PKdfRlM3vV-gBJ2RfUyKUul4zO9gwCN/view?usp=sharing)
+<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/) -->
 
-- 📫 How to reach me **trademetrader1137@gmail.com**
+- 📄 Check [Resume](https://dhrub27das.hackerresume.io/482b782d-ca5b-466c-bc39-e95e927172a8)
+
+- 📫 How to reach me **dhrub27@gmail.com**
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
