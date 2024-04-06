@@ -66,12 +66,12 @@ Connect with me :
 </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddas2707&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddas2707&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddas2707&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
     
 </div>
- <img  src="snake.svg" alt="example" />
+
 ✍️ Random Dev Quote
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
 
