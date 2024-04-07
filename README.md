@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/jitenderji1137)
-<div align="center"><img src="https://github.com/jitenderji1137/jitenderji1137/assets/113350806/12765808-f51d-40e0-b2e9-ba2a27fa8c84" alt="example" width="50px"/></div>
+<!-- <div align="center"><img src="https://github.com/jitenderji1137/jitenderji1137/assets/113350806/12765808-f51d-40e0-b2e9-ba2a27fa8c84" alt="example" width="50px"/></div> -->
 <h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Dhrub 🙂</h1>
 <!-- <p align="center">
   <a href="https://jitenderji1137.pages.dev/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Quality+assurance%20|%20Software+testing;Cypress%20|%20Selenium%20|%20Postman%20|%20JMeter%20|%20And-More;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
