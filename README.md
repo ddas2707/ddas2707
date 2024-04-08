@@ -43,7 +43,7 @@ Connect with me :
           <img src="https://img.shields.io/badge/javascript-181717?logo=javascript&logoColor=ffdd00&style=flat" alt="javascript" /> 
    <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&style=flat" alt="Python" /> 
  <!--   <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" /> -->
- <!--     <img src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
+ <!--     <img  src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
     <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
     <img src="https://img.shields.io/badge/WebdriverIO-EA5906?logo=webdriverio&logoColor=fff&style=flat" alt="WebdriverIO" /> -->
