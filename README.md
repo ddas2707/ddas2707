@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working in **Es Magico Tech Studio** Company -->
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **DEVOPS & CLOUD**
 
 - 💬 Ask me about **Android , Web**
 
