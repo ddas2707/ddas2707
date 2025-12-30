@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **DEVOPS & CLOUD**
 
-- 💬 Ask me about **Android , Web**
-
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/) -->
 
 <!-- - 📄 Check [Resume](https://dhrub27das.hackerresume.io/482b782d-ca5b-466c-bc39-e95e927172a8) -->
